@@ -3,7 +3,8 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableLicenseViolations": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
@@ -23,7 +24,8 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "issueType": "DEPENDENCY",
+    "displayLicenseViolations": true
   },
   "issueSettingsSAST": {
     "minSeverityLevel": "high",
