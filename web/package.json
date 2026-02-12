@@ -22,7 +22,7 @@
     "eslint-plugin-unused-imports": "^2.0.0",
     "file-saver": "^2.0.2",
     "i18next": "^19.8.9",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.0.0",
     "moment": "^2.29.1",
     "papaparse": "^5.4.1",
     "rc-bullets": "^1.5.16",
